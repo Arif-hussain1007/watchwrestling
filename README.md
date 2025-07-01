@@ -1,4 +1,4 @@
-Wrestling Data: A Comprehensive Guide
+<h2>Wrestling Data: A Comprehensive Guide</h2>
 Wrestling is one of the most exciting and dynamic sports, with a rich history spanning decades. From its humble beginnings to the massive global phenomenon it is today, wrestling has captured the hearts of millions of fans worldwide. This article dives into the data, history, and significance of wrestling, focusing on match results, wrestler profiles, and promotions.
 
 The Importance of Wrestling Data
